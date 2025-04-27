@@ -1,6 +1,6 @@
 # 2-Face: A Tab Masker Chrome Extension
 
-A simple **Chrome extension** that lets you **mask your tab** by changing the **tab title** and **favicon**. This is useful for organizing your browser tabs, making them more personalized, or just for fun!
+A simple **Chrome extension** that lets you **mask your tab** by changing the **tab title** and **favicon**. This is useful for organizing your browser tabs, making them more personalized, keep the privacy or just for fun!
 
 ### Features:
 - Change the **title** of your current active tab.
@@ -30,7 +30,7 @@ You can directly install the extension from the [Chrome Web Store](https://chrom
 ```bash
 git clone https://github.com/Tanuj1718/TwoFace
 cd 2Face
-
+```
 - Open chrome://extensions in your browser.
 
 - Turn on Developer mode (top-right corner).

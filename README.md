@@ -31,13 +31,13 @@ You can directly install the extension from the [Chrome Web Store](https://chrom
 git clone https://github.com/Tanuj1718/TwoFace
 cd 2Face
 
-> Open chrome://extensions in your browser.
+- Open chrome://extensions in your browser.
 
-> Turn on Developer mode (top-right corner).
+- Turn on Developer mode (top-right corner).
 
-> Click on Load unpacked.
+- Click on Load unpacked.
 
-> Select the folder where you downloaded/cloned the extension.
+- Select the folder where you downloaded/cloned the extension.
 
-> Your extension should now be visible in your browser toolbar.
+- Your extension should now be visible in your browser toolbar.
 

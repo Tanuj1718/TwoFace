@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Tab Masker",
+  "version": "1.1",
+  "description": "Mask your tab with custom title and favicon.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Mask Tab"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "mask.png",
+    "48": "mask.png",
+    "128": "mask.png"
+  }
+}
